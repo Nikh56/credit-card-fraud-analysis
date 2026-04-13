@@ -37,7 +37,7 @@ Credit card fraud detection involves identifying unauthorized transactions in a 
 
 ⚙️ How to Run the Project
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Nikh56/credit-card-fraud-analysis.git
 Navigate to the project directory
 cd your-repo-name
 Install dependencies
